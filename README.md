@@ -14,4 +14,8 @@ Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.co
 #### In Development mode
 
 * Run [ngrok](https://ngrok.com/) on port 5000
-* Visit your ngrok url!
+
+
+#### In production mode
+
+* Visit https://sprout-twilight-afrovenator.glitch.me/
